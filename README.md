@@ -2,6 +2,7 @@
 
 This script is for educational purposes only!
 
+demo: https://youtu.be/MEhCroJafZ0
 I have included (false information on the checkout page)
 a short, slowed down (by implementing a delay) 
 clip of the code being run for reference.
